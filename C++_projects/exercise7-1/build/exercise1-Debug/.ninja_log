@@ -1,0 +1,12 @@
+# ninja log v5
+10	334	7405089067656521	CMakeFiles/exercise7-1.dir/dropki.cpp.obj	77a8ebdb7029335c
+1	1170	7405089076055442	CMakeFiles/exercise7-1.dir/main.cpp.obj	f1d30dfc68370b52
+1175	1539	7405089079681547	exercise7-1.exe	5c1ab36a2ef796b1
+1	2183	7405092499285363	CMakeFiles/exercise7-1.dir/dropki.cpp.obj	77a8ebdb7029335c
+26	2849	7405223434517624	CMakeFiles/exercise7-1.dir/dropki.cpp.obj	77a8ebdb7029335c
+14	2853	7405223436346398	CMakeFiles/exercise7-1.dir/main.cpp.obj	f1d30dfc68370b52
+2854	3265	7405223440739651	exercise7-1.exe	5c1ab36a2ef796b1
+10	2279	7405225299901017	CMakeFiles/exercise7-1.dir/main.cpp.obj	f1d30dfc68370b52
+2282	2633	7405225303583514	exercise7-1.exe	5c1ab36a2ef796b1
+11	2207	7405225805856319	CMakeFiles/exercise7-1.dir/main.cpp.obj	f1d30dfc68370b52
+2209	2547	7405225809378823	exercise7-1.exe	5c1ab36a2ef796b1

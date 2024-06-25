@@ -1,0 +1,17 @@
+# ninja log v5
+1	134	7380160839385473	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+6	361	7380171313041839	build.ninja	1f5dcfcf9f242753
+1	131	7380160910556680	CMakeFiles/C_exercises.dir/exercise2.c.obj	2f59f009da19172e
+7	519	7380172501527270	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+25	643	7380172503045258	CMakeFiles/C_exercises.dir/main_function.c.obj	7845e60c599ead54
+17	683	7380172503325490	CMakeFiles/C_exercises.dir/exercise2.c.obj	2f59f009da19172e
+684	1050	7380172506870176	C_exercises.exe	e4599fdc1be596b2
+13	322	7380175082254237	CMakeFiles/C_exercises.dir/main_function.c.obj	7845e60c599ead54
+5	581	7380175085017147	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+21	633	7380175085746092	CMakeFiles/C_exercises.dir/exercise2.c.obj	2f59f009da19172e
+634	986	7380175088873751	C_exercises.exe	e4599fdc1be596b2
+0	22	0	clean	577b940aee94fbd7
+21	222	7380176760868483	CMakeFiles/C_exercises.dir/main_function.c.obj	7845e60c599ead54
+13	226	7380176760868483	CMakeFiles/C_exercises.dir/exercise2.c.obj	2f59f009da19172e
+5	248	7380176761129528	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+248	486	7380176763446352	C_exercises.exe	e4599fdc1be596b2

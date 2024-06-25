@@ -1,0 +1,7 @@
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/exercise4-3.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/install.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/install/local.dir
+C:/Users/Maksim/Documents/Qt/C_projects/exercise4-3/build/exercise1-Debug/CMakeFiles/install/strip.dir

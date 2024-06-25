@@ -1,0 +1,15 @@
+# ninja log v5
+13	1957	7405315217124236	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+1	2000	7405315217630178	CMakeFiles/exercise8-1.dir/main.cpp.obj	2519443c68da489c
+2001	2523	7405315222762218	exercise8-1.exe	ca8260ba0f0e0b4a
+22	2526	7405346966625300	CMakeFiles/exercise8-1.dir/main.cpp.obj	2519443c68da489c
+31	2530	7405346967493111	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+2531	2903	7405346971756582	exercise8-1.exe	ca8260ba0f0e0b4a
+8	2233	7405347911938962	CMakeFiles/exercise8-1.dir/main.cpp.obj	2519443c68da489c
+18	2391	7405347912663205	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+2392	2750	7405347917015991	exercise8-1.exe	ca8260ba0f0e0b4a
+8	2336	7405382253091972	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+11	2151	7405389420473427	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+24	2272	7405392155457661	CMakeFiles/exercise8-1.dir/complex1.cpp.obj	1fdc5e1ed65970c4
+13	2445	7405392156568889	CMakeFiles/exercise8-1.dir/main.cpp.obj	2519443c68da489c
+2446	2901	7405392161852784	exercise8-1.exe	ca8260ba0f0e0b4a

@@ -1,0 +1,9 @@
+# ninja log v5
+1	200	7392941762638636	CMakeFiles/exercise7-2.dir/main.c.obj	13c5ca67a1b8e6fc
+203	711	7392941767654074	exercise7-2.exe	44e4c7f9e334be5e
+6	1414	7393313648088680	CMakeFiles/exercise7-2.dir/main.c.obj	13c5ca67a1b8e6fc
+1417	1958	7393313653420307	exercise7-2.exe	44e4c7f9e334be5e
+6	154	7393314383939374	CMakeFiles/exercise7-2.dir/main.c.obj	13c5ca67a1b8e6fc
+156	488	7393314387057694	exercise7-2.exe	44e4c7f9e334be5e
+4	162	7393315256361062	CMakeFiles/exercise7-2.dir/main.c.obj	13c5ca67a1b8e6fc
+164	528	7393315259951944	exercise7-2.exe	44e4c7f9e334be5e

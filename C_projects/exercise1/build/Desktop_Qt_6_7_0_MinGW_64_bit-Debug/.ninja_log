@@ -1,0 +1,8 @@
+# ninja log v5
+4	171	7374791287611926	CMakeFiles/C_exercises.dir/main.c.obj	92e10439ce776f0c
+142	532	7380179450125054	C_exercises.exe	e4599fdc1be596b2
+12	243	7380178928936160	CMakeFiles/C_exercises.dir/exercise2.c.obj	2f59f009da19172e
+4	260	7380178929092399	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+4	141	7380179446578265	CMakeFiles/C_exercises.dir/main_function.c.obj	7845e60c599ead54
+4	175	7380186565439115	CMakeFiles/C_exercises.dir/exercise1.c.obj	65c76367010b75b2
+177	576	7380186569316682	C_exercises.exe	94c99513c892c9cd

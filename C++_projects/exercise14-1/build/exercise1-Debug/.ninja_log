@@ -1,0 +1,19 @@
+# ninja log v5
+22	2600	7410290072482912	CMakeFiles/exercise14-1.dir/dvodimenzionalni.cpp.obj	8fd20403dee656e9
+15	2690	7410290072326576	CMakeFiles/exercise14-1.dir/oblik.cpp.obj	d42b7ae9d2d5924a
+38	3194	7410290077506822	CMakeFiles/exercise14-1.dir/krug.cpp.obj	c39c0ea268f2d8d2
+30	3239	7410290078600523	CMakeFiles/exercise14-1.dir/kvadrat.cpp.obj	d9d16bcffc336dee
+46	3347	7410290078600523	CMakeFiles/exercise14-1.dir/pravoagolnik.cpp.obj	60827382d98deb93
+2614	3415	7410290079543943	CMakeFiles/exercise14-1.dir/trodimenzionalni.cpp.obj	64f2d3fed6692d4f
+2696	4898	7410290095550763	CMakeFiles/exercise14-1.dir/kocka.cpp.obj	1d2d01607f578949
+3200	5023	7410290096866947	CMakeFiles/exercise14-1.dir/cilindar.cpp.obj	1a5865745dc3b3e2
+3250	5104	7410290097646099	CMakeFiles/exercise14-1.dir/kvadar.cpp.obj	251587e9458da9f1
+2	4923	7410292346137764	CMakeFiles/exercise14-1.dir/main.cpp.obj	2665526b6a8f22ce
+32	5803	7410299948787514	CMakeFiles/exercise14-1.dir/kvadrat.cpp.obj	d9d16bcffc336dee
+39	5835	7410299948631242	CMakeFiles/exercise14-1.dir/krug.cpp.obj	c39c0ea268f2d8d2
+46	5859	7410299948943766	CMakeFiles/exercise14-1.dir/pravoagolnik.cpp.obj	60827382d98deb93
+198	5887	7410299949099956	CMakeFiles/exercise14-1.dir/kocka.cpp.obj	1d2d01607f578949
+191	5913	7410299949256276	CMakeFiles/exercise14-1.dir/kvadar.cpp.obj	251587e9458da9f1
+21	5960	7410299950484679	CMakeFiles/exercise14-1.dir/main.cpp.obj	2665526b6a8f22ce
+5806	7519	7410299966310180	CMakeFiles/exercise14-1.dir/cilindar.cpp.obj	1a5865745dc3b3e2
+7519	8281	7410299974171553	exercise14-1.exe	bc8353814b816dce

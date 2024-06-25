@@ -1,0 +1,12 @@
+# ninja log v5
+29	2513	7404341222148372	CMakeFiles/exercise6-1.dir/stedac.cpp.obj	595e6a7ca47bb410
+1	160	7404352720315814	CMakeFiles/exercise6-1.dir/covek.cpp.obj	4238d74e5daa78eb
+13	165	7404352794976387	CMakeFiles/exercise6-1.dir/stedac.cpp.obj	595e6a7ca47bb410
+4	1840	7404353143931216	CMakeFiles/exercise6-1.dir/main.cpp.obj	29adddbec300c130
+1845	2678	7404353152421169	exercise6-1.exe	dc1a5121c8a694d7
+9	1978	7404355468184600	CMakeFiles/exercise6-1.dir/main.cpp.obj	29adddbec300c130
+17	2241	7404355471007073	CMakeFiles/exercise6-1.dir/stedac.cpp.obj	595e6a7ca47bb410
+2242	2658	7404355475100846	exercise6-1.exe	dc1a5121c8a694d7
+7	1974	7404356862499626	CMakeFiles/exercise6-1.dir/main.cpp.obj	29adddbec300c130
+15	2587	7404356866866427	CMakeFiles/exercise6-1.dir/stedac.cpp.obj	595e6a7ca47bb410
+2588	3069	7404356873621816	exercise6-1.exe	dc1a5121c8a694d7

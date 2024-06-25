@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.5)
+
+project(exercise6-1 LANGUAGES CXX)
+
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+
+add_executable(exercise6-1 main.cpp
+    covek.h covek.cpp
+    stedac.h stedac.cpp)
+
+include(GNUInstallDirs)
+install(TARGETS exercise6-1
+    LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR}
+    RUNTIME DESTINATION ${CMAKE_INSTALL_BINDIR}
+)
