@@ -1,0 +1,20 @@
+# ninja log v5
+1	2921	7419881841981011	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+11	2446	7419882582994110	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+13	2599	7419882749330237	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+50	6522	7420609055172080	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+29	4062	7420609715038869	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+4065	4669	7420609721544453	exercise8-1.exe	f6dd300030dcb04f
+13	3103	7420609880428688	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+8	2707	7420610349776998	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+2709	3139	7420610354009310	exercise8-1.exe	f6dd300030dcb04f
+14	4174	7421626520355082	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+4177	4909	7421626527627427	exercise8-1.exe	f6dd300030dcb04f
+16	2947	7421647445652933	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+2950	3508	7421647451176735	exercise8-1.exe	f6dd300030dcb04f
+15	2974	7421648106551470	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+2976	3782	7421648114535722	exercise8-1.exe	f6dd300030dcb04f
+10	2627	7421648781303382	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+2629	3097	7421648785911252	exercise8-1.exe	f6dd300030dcb04f
+12	2804	7421674733514761	CMakeFiles/exercise8-1.dir/main.cpp.obj	c99d21b14a8bac44
+2806	3226	7421674737663848	exercise8-1.exe	f6dd300030dcb04f

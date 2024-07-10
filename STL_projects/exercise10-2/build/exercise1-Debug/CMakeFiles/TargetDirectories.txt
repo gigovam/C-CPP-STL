@@ -1,0 +1,7 @@
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/exercise10-2.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/install.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/install/local.dir
+C:/Users/Maksim/Documents/Qt/C_C++_STL/STL_projects/exercise10-2/build/exercise1-Debug/CMakeFiles/install/strip.dir
